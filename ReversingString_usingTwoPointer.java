@@ -1,5 +1,5 @@
 import java.util.*;
-class ReversingString
+class ReversingString_usingTwoPointer
 {
   public static void main(String args[])
   {
